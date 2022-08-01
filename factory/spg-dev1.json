@@ -1,0 +1,17 @@
+{
+	"name": "spg-dev1",
+	"properties": {
+		"globalParameters": {
+			"environment": {
+				"type": "string",
+				"value": "add"
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ff5ca42-e424-407e-b7d0-95de7514aee6",
+		"tenantId": "7971c9ee-7c77-4781-862b-4f68c6278ecb"
+	}
+}

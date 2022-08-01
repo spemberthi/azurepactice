@@ -1,0 +1,6 @@
+{
+	"name": "shir-pem",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

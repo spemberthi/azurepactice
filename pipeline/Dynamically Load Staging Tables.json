@@ -39,6 +39,10 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
+					"items": {
+						"value": "@pipeline().TriggerId",
+						"type": "Expression"
+					},
 					"activities": [
 						{
 							"name": "Wait1",
